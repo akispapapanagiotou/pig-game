@@ -6,6 +6,6 @@ provides a fun and interactive way to pass the time.
 ## Links:
 https://pig-game-vanilla-javascript.netlify.app/
 ## Built with: 
-* HTML
+* HTML5
 * CSS
 * JavaScript
